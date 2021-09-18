@@ -166,4 +166,4 @@ while(1):
         comp(a,c,s)
         check(a)
         prt(a)
-    i+=1
+    i=i+1
