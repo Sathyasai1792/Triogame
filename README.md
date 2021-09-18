@@ -1,5 +1,5 @@
 # Triogame
- Triogame is set of three varaint games which are built with very efficiency that the computer has 100% success rate (sometimes draw is possible)
+ By using Python,Triogame is set of three varaint games which are built with very efficiency that the computer has 100% success rate (sometimes draw is possible)
  
 # Tic-tac-toe:
  Noughts and crosses, or Xs and Os/“X’y O’sies”, is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner.
